@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raghuttam</h1>
-<h3 align="center">A regular old software developer, aims to achieve not so regular feats. Excited and passionate new technologies.</h3>
+<h3 align="center">A regular old software developer, aims to achieve not-so-regular feats. Excited and passionate about new technologies.</h3>
 
 <p align="left"> <a href="https://twitter.com/rparwatikar" target="blank"><img src="https://img.shields.io/twitter/follow/rparwatikar?logo=twitter&style=for-the-badge" alt="rparwatikar" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and improving on competetive coding**
+- 🌱 I’m currently learning **Data Structures and improving on competitive coding**
 
 - 📫 How to reach me **raghu.parvatikar@gmail.com**
 
-- ⚡ Fun fact **I'm a good conversationalist and takes delight public speaking**
+- ⚡ Fun fact **I'm a good conversationalist and take delight in public speaking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
